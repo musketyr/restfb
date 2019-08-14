@@ -1,5 +1,10 @@
 # RestFB Changelog
 
+## 3.0.0 RC1 (August 14, 2019)
+
+* Issue #940: moved source level to java 8
+* Issue #1000: moved to junit 5
+
 ## 2.25.0 (September 12, 2019)
 
 * Issue #1020: Add support for permissions webhooks<br />
